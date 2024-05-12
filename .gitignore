@@ -167,3 +167,8 @@ cython_debug/
 
 # JPEG images
 *.jpg
+
+# Pickle files
+*.pkl
+*.pickle
+*.p
