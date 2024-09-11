@@ -161,3 +161,19 @@ cython_debug/
 
 # PDF
 *.pdf
+
+# PNG images
+*.png
+
+# JPEG images
+*.jpg
+*.jpeg
+
+# Pickle files
+*.pkl
+*.pickle
+*.p
+
+# hdf5 files
+*.h5
+*.hdf5
