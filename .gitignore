@@ -177,3 +177,6 @@ cython_debug/
 # hdf5 files
 *.h5
 *.hdf5
+
+# zip files
+*.zip
